@@ -42,7 +42,7 @@ In this demo, when a configuration change is made and pushed to the Spring Cloud
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/spring-cloud-bus-demo.git
+git clone https://github.com/iammahesh123/spring-cloud-demo.git
 ```
 2. Navigate to the project directory:
  ```bash
